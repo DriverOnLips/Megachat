@@ -3,6 +3,9 @@
 ## Sources
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DriverOnLips&repo=Megachat_frontend)](https://github.com/DriverOnLips/Megachat_frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dasha124&repo=Megachat_interference)](https://github.com/dasha124/Megachat_interference)
+
+
 
 ## Links
 
